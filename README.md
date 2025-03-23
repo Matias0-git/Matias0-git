@@ -25,8 +25,7 @@
 ## 🌟 GitHub Stats & Contributions:
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matias0-git&theme=radical)](https://github.com/Matias0-git)
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Matias0-git&theme=radical)
-
-
+[![LeetCode Stats](https://leetcode-card.vercel.app/?username=matias80&theme=radical)](https://leetcode.com/matias80/)
 
 ---
 
