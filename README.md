@@ -24,9 +24,8 @@
 
 ## 🌟 GitHub Stats & Contributions:
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matias0-git&theme=radical)](https://github.com/Matias0-git)
-
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Matias0-git&theme=radical)
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=radical)](https://wakatime.com)
+
 
 
 ---
@@ -38,7 +37,7 @@
 
 ## 🔗 Connect With Me:
 
-- 💼 [LinkedIn](www.linkedin.com/in/matias-mena-da-dalt-984a19240)
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-mena-da-dalt-984a19240)
 
 ---
 
