@@ -37,9 +37,7 @@
 - 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-mena-da-dalt-984a19240)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat&logo=leetcode)](https://leetcode.com/matias80/)
 - [![Substack](https://img.shields.io/badge/Newsletter-Substack-orange?style=flat&logo=substack)](https://matiasmm.substack.com)
-- [Matias Mena Da Dalt](https://www.youtube.com/@MatiasMenaDaDalt-y2t)
-
-
+- [![YouTube Channel](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/@MatiasMenaDaDalt-y2t)
 ---
 
 ## 🧑‍💻 A Few Fun Facts About Me:
