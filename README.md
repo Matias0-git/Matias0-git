@@ -35,7 +35,7 @@
 ## 🔗 Connect With Me:
 
 - 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-mena-da-dalt-984a19240)
-- [<img src="https://cdn.simpleicons.org/substack/000000" alt="Substack Icon" width="20" height="20">](https://matiasmm.substack.com) [![Substack](https://img.shields.io/badge/Newsletter-Substack-orange?style=flat&logo=substack)](https://matiasmm.substack.com)
+- [<img src="https://cdn.simpleicons.org/substack/000000" alt="Substack Icon" width="17" height="17">](https://matiasmm.substack.com) [![Substack](https://img.shields.io/badge/Newsletter-Substack-orange?style=flat&logo=substack)](https://matiasmm.substack.com)
 
 
 ---
