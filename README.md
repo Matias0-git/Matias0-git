@@ -26,7 +26,7 @@
 ![Matias0-git GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matias0-git&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 ![Matias0-git GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matias0-git&layout=compact&theme=radical)
 
-![GitHub Snake GIF](https://github.com/Matias0-git/Matias0-git/blob/output/ocean.gif?raw=true)
+![GitHub Snake](https://github.com/Matias0-git/Matias0-git/blob/output/github-snake.svg)
 ---
 
 ## 🚀 Projects (Under construction):
