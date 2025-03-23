@@ -25,7 +25,6 @@
 ## 🌟 GitHub Stats & Contributions:
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matias0-git&theme=radical)](https://github.com/Matias0-git)
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Matias0-git&theme=radical)
-[![LeetCode Stats](https://github-readme-leetcode.herokuapp.com?username=matias80&theme=radical)](https://leetcode.com/matias80/)
 ---
 
 ## 🚀 Projects (Under construction):
@@ -36,6 +35,8 @@
 ## 🔗 Connect With Me:
 
 - 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-mena-da-dalt-984a19240)
+- [<img src="https://cdn.simpleicons.org/substack/000000" alt="Substack Icon" width="40" height="40">](https://matiasmm.substack.com) [![Substack](https://img.shields.io/badge/Newsletter-Substack-orange?style=flat&logo=substack)](https://matiasmm.substack.com)
+
 
 ---
 
