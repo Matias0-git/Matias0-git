@@ -6,19 +6,7 @@
 
 ## 🛠️ Tech Stack & Skills:
 
-### **Finance & Data Science**  
-- 📊 **Python** (Pandas, NumPy, Matplotlib)
-- 📉 **R** for Statistical Analysis
-- 💡 **SQL** (MySQL, PostgreSQL)
-- 🔮 **Machine Learning** (Scikit-Learn, TensorFlow)
-- 💼 **Algorithmic Trading** (Backtesting, Data Analysis)
-
-### **Web & Software Development**
-- 💻 **JavaScript** (React, Node.js, Express)
-- 🌐 **HTML5, CSS3, Sass, TailwindCSS**
-- 🖥️ **TypeScript**
-- 🔧 **Git, GitHub, Docker**
-- 🧩 **API Integration** (RESTful APIs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matias0-git&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
