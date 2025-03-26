@@ -24,7 +24,6 @@
 
 ## 🌟 GitHub Stats & Contributions:
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matias0-git&theme=radical)](https://github.com/Matias0-git)
-[![Kaggle Profile Summary](https://kaggle-profile-summary-cards.vercel.app/api/cards/profile-details?username=matiasmenadadalt)]
 ---
 
 ## 🚀 Projects (Under construction):
@@ -37,9 +36,10 @@
 - 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-mena-da-dalt-984a19240)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat&logo=leetcode)](https://leetcode.com/matias80/)
 - [![Substack](https://img.shields.io/badge/Newsletter-Substack-orange?style=flat&logo=substack)](https://matiasmm.substack.com)
+- [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/matiasmenadadalt)
 - <a href="https://www.youtube.com/@MatiasMenaDaDalt-y2t">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Channel" width="20"/>
-  </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Channel" width="20"/>
+</a>
 
 ---
 
