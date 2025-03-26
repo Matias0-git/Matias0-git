@@ -29,9 +29,6 @@
 ## 🚀 Projects and Video Demonstrations:
 
 Here are some of my projects, with video demonstrations available on my YouTube channel: [YouTube Channel Link](https://www.youtube.com/@MatiasMenaDaDalt-y2t)
-
-<img src="YOUR_ANIMATED_GIF_URL" alt="Animated GIF of Project Videos" width="100%">
-
 <p>
   <a href="https://www.youtube.com/watch?v=79w1P6Xk-Xg">Ecommerce Demo</a> |
   <a href="https://www.youtube.com/watch?v=9jDNSBL8nzQ">Weather App Demo</a> |
