@@ -37,9 +37,7 @@
 - [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat&logo=leetcode)](https://leetcode.com/matias80/)
 - [![Substack](https://img.shields.io/badge/Newsletter-Substack-orange?style=flat&logo=substack)](https://matiasmm.substack.com)
 - [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/matiasmenadadalt)
-- <a href="https://www.youtube.com/@MatiasMenaDaDalt-y2t">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Channel" width="20"/>
-</a>
+- [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@MatiasMenaDaDalt-y2t)
 
 ---
 
