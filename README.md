@@ -1,24 +1,23 @@
 # 👋 Welcome to My GitHub Profile, I'm **Matias0-git**
 
-🔍 A passionate **Software Developer** with a strong focus on **FinTech**, **Machine Learning**, and **Web Development**. I love combining **technology** and **finance** to build innovative solutions that make an impact. 🚀
+🔍 A passionate **Software Developer** with a strong focus on **Data Science**, **Machine Learning**, and **Web Development**. I love combining **technology** to build innovative solutions that make an impact. 🚀
 
 ---
 
 ## 🛠️ Tech Stack & Skills:
- 
- ### **Finance & Data Science**  
- - 📊 **Python** (Pandas, NumPy, Matplotlib)
- - 📉 **R** for Statistical Analysis
- - 💡 **SQL** (MySQL, PostgreSQL)
- - 🔮 **Machine Learning** (Scikit-Learn, TensorFlow)
- - 💼 **Algorithmic Trading** (Backtesting, Data Analysis)
- 
- ### **Web & Software Development**
- - 💻 **JavaScript** (React, Node.js, Express)
- - 🌐 **HTML5, CSS3, Sass, TailwindCSS**
- - 🖥️ **TypeScript**
- - 🔧 **Git, GitHub, Docker**
- - 🧩 **API Integration** (RESTful APIs)
+ 
+ ### **Data Science & Machine Learning**  
+ - 📊 **Python** (Pandas, NumPy, Matplotlib)
+ - 📉 **R** for Statistical Analysis
+ - 💡 **SQL** (MySQL, PostgreSQL)
+ - 🔮 **Machine Learning** (Scikit-Learn, TensorFlow, PyTorch)
+ 
+ ### **Web & Software Development**
+ - 💻 **JavaScript** (React, Node.js, Express)
+ - 🌐 **HTML5, CSS3, Sass, TailwindCSS**
+ - 🖥️ **TypeScript**
+ - 🔧 **Git, GitHub, Docker**
+ - 🧩 **API Integration** (RESTful APIs)
 
 ---
 
@@ -30,10 +29,10 @@
 
 Here are some of my projects, with video demonstrations available on my YouTube channel: [YouTube Channel Link](https://www.youtube.com/@MatiasMenaDaDalt-y2t)
 <p>
-  <a href="https://www.youtube.com/watch?v=79w1P6Xk-Xg">Ecommerce Demo</a> |
-  <a href="https://www.youtube.com/watch?v=9jDNSBL8nzQ">Weather App Demo</a> |
-  <a href="https://www.youtube.com/watch?v=0dmcyogcAnk">Task Manager Demo</a> |
-  <a href="https://www.youtube.com/watch?v=ywydyklG1fY">Calculator Client Server Demo</a>
+  <a href="https://www.youtube.com/watch?v=79w1P6Xk-Xg">Ecommerce Demo</a> |
+  <a href="https://www.youtube.com/watch?v=9jDNSBL8nzQ">Weather App Demo</a> |
+  <a href="https://www.youtube.com/watch?v=0dmcyogcAnk">Task Manager Demo</a> |
+  <a href="https://www.youtube.com/watch?v=ywydyklG1fY">Calculator Client Server Demo</a>
 </p>
 
 ---
@@ -48,14 +47,13 @@ Here are some of my projects, with video demonstrations available on my YouTube 
 ---
 
 ## 🧑‍💻 A Few Fun Facts About Me:
-- **Passionate about Data Science**: I spend a lot of my time experimenting with **machine learning** models, especially in the finance sector.
-- **Financial Markets Enthusiast**: I'm always diving deep into stock market analysis and **algorithmic trading**.
+- **Passionate about Data Science**: I spend a lot of my time experimenting with **machine learning** models.
 - **Lifelong Learner**: Constantly exploring new technologies and optimizing my workflows.
 
 ---
 
 ### 📍 Last But Not Least:
 
-I’m always open to collaboration, so feel free to reach out to me. Whether it's for contributing to a project or discussing the latest tech trends in **FinTech**, I'm always excited to connect!
+I’m always open to collaboration, so feel free to reach out to me. Whether it's for contributing to a project or discussing the latest tech trends, I'm always excited to connect!
 
 ---
