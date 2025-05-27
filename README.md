@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Profile, I'm **Matias0-git**
+# 👋 Welcome to My GitHub Profile, I'm **Matias**
 
 🔍 A passionate **Software Developer** with a strong focus on **Data Science**, **Machine Learning**, and **Web Development**. I love combining **technology** to build innovative solutions that make an impact. 🚀
 
@@ -9,14 +9,14 @@
  ### **Data Science & Machine Learning**  
  - 📊 **Python** (Pandas, NumPy, Matplotlib)
  - 📉 **R** for Statistical Analysis
- - 💡 **SQL** (MySQL, PostgreSQL)
+ - 💡 **SQL** (MySQL, MongoDB)
  - 🔮 **Machine Learning** (Scikit-Learn, TensorFlow, PyTorch)
  
  ### **Web & Software Development**
  - 💻 **JavaScript** (React, Node.js, Express)
  - 🌐 **HTML5, CSS3, Sass, TailwindCSS**
  - 🖥️ **TypeScript**
- - 🔧 **Git, GitHub, Docker**
+ - 🔧 **Git, GitHub**
  - 🧩 **API Integration** (RESTful APIs)
 
 ---
@@ -47,8 +47,7 @@ Here are some of my projects, with video demonstrations available on my YouTube 
 ---
 
 ## 🧑‍💻 A Few Fun Facts About Me:
-- **Passionate about Data Science**: I spend a lot of my time experimenting with **machine learning** models.
-- **Lifelong Learner**: Constantly exploring new technologies and optimizing my workflows.
+- **Passionate about startups**
 
 ---
 
