@@ -35,7 +35,7 @@ Here are some of my existing projects, with video demonstrations available on my
   <a href="https://www.youtube.com/watch?v=79w1P6Xk-Xg">Ecommerce Demo</a> |
   <a href="https://www.youtube.com/watch?v=9jDNSBL8nzQ">Weather App Demo</a>  |
   <a href="https://www.youtube.com/watch?v=0dmcyogcAnk">Task Manager Demo</a>  |
-  <a href="https://www.youtube.com/watch?v=ywydyklG1fY">Calculator Client Server Demo</a> *
+  <a href="https://www.youtube.com/watch?v=ywydyklG1fY">Calculator Client Server Demo</a>
 </p>
 
 ---
