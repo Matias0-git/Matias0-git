@@ -32,10 +32,10 @@ My future projects will focus on understanding the data lifecycle and building f
 
 Here are some of my existing projects, with video demonstrations available on my YouTube channel: [YouTube Channel Link](https://www.youtube.com/@MatiasMenaDaDalt-y2t)
 <p>
-  <a href="https://www.youtube.com/watch?v=79w1P6Xk-Xg">Ecommerce Demo</a> *(Exploring database design and transaction data flow)* |
-  <a href="https://www.youtube.com/watch?v=9jDNSBL8nzQ">Weather App Demo</a> *(Considering external API data ingestion and real-time processing)* |
-  <a href="https://www.youtube.com/watch?v=0dmcyogcAnk">Task Manager Demo</a> *(Focusing on data persistence and user-generated data structures)* |
-  <a href="https://www.youtube.com/watch?v=ywydyklG1fY">Calculator Client Server Demo</a> *(Understanding client-server communication and data exchange)*
+  <a href="https://www.youtube.com/watch?v=79w1P6Xk-Xg">Ecommerce Demo</a> |
+  <a href="https://www.youtube.com/watch?v=9jDNSBL8nzQ">Weather App Demo</a>  |
+  <a href="https://www.youtube.com/watch?v=0dmcyogcAnk">Task Manager Demo</a>  |
+  <a href="https://www.youtube.com/watch?v=ywydyklG1fY">Calculator Client Server Demo</a> *
 </p>
 
 ---
