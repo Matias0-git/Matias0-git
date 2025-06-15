@@ -138,8 +138,6 @@ Here are some of my existing projects, with video demonstrations available on my
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-mena-da-dalt-984a19240) [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat&logo=leetcode)](https://leetcode.com/matias80/) [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/matiasmenadadalt) [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@MatiasMenaDaDalt-y2t)
 
----
-
 ## Last But Not Least:
 
 I’m always open to collaboration, so feel free to reach out. Whether it's for contributing to a project, discussing the latest tech trends in data engineering, or exploring how data can transform industries, I'm always excited to connect and learn!
