@@ -96,31 +96,40 @@ These projects showcase my broader development journey. I'm actively learning ho
 
 Here are some of my existing projects, with video demonstrations available on my YouTube channel: [Matias's YouTube Channel](https://www.youtube.com/@MatiasMenaDaDalt-y2t)
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=79w1P6Xk-Xg" target="_blank">
-    <img src="http://img.youtube.com/vi/79w1P6Xk-Xg/hqdefault.jpg" alt="Ecommerce Demo" width="200"/>
-    <br />
-    Ecommerce Demo
-  </a>
-      
-  <a href="https://www.youtube.com/watch?v=9jDNSBL8nzQ" target="_blank">
-    <img src="http://img.youtube.com/vi/9jDNSBL8nzQ/hqdefault.jpg" alt="Weather App Demo" width="200"/>
-    <br />
-    Weather App Demo
-  </a>
-      
-  <a href="https://www.youtube.com/watch?v=0dmcyogcAnk" target="_blank">
-    <img src="http://img.youtube.com/vi/0dmcyogcAnk/hqdefault.jpg" alt="Task Manager Demo" width="200"/>
-    <br />
-    Task Manager Demo
-  </a>
-      
-  <a href="https://www.youtube.com/watch?v=ywydyklG1fY" target="_blank">
-    <img src="http://img.youtube.com/vi/ywydyklG1fY/hqdefault.jpg" alt="Calculator Client Server Demo" width="200"/>
-    <br />
-    Calculator Client Server Demo
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=79w1P6Xk-Xg" target="_blank">
+        <img src="http://img.youtube.com/vi/79w1P6Xk-Xg/hqdefault.jpg" alt="Ecommerce Demo" width="200"/>
+        <br />
+        Ecommerce Demo
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=9jDNSBL8nzQ" target="_blank">
+        <img src="http://img.youtube.com/vi/9jDNSBL8nzQ/hqdefault.jpg" alt="Weather App Demo" width="200"/>
+        <br />
+        Weather App Demo
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=0dmcyogcAnk" target="_blank">
+        <img src="http://img.youtube.com/vi/0dmcyogcAnk/hqdefault.jpg" alt="Task Manager Demo" width="200"/>
+        <br />
+        Task Manager Demo
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=ywydyklG1fY" target="_blank">
+        <img src="http://img.youtube.com/vi/ywydyklG1fY/hqdefault.jpg" alt="Calculator Client Server Demo" width="200"/>
+        <br />
+        Calculator Client Server Demo
+      </a>
+    </td>
+  </tr>
+</table>
 
 **Important Note:** I cannot automatically retrieve your specific YouTube video IDs. **You MUST replace `YOUR_ECOMMERCE_VIDEO_ID`, `YOUR_WEATHER_VIDEO_ID`, `YOUR_TASK_MANAGER_VIDEO_ID`, and `YOUR_CALCULATOR_VIDEO_ID` with the actual video IDs from your YouTube video URLs.** The video ID is the unique string found after `v=` in a YouTube URL (e.g., in `https://www.youtube.com/watch?v=dQw4w9WgXcQ`, the ID is `dQw4w9WgXcQ`).
 
@@ -128,7 +137,7 @@ Here are some of my existing projects, with video demonstrations available on my
 
 ## 🔗 Connect With Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-mena-da-dalt-984a19240)&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat&logo=leetcode)](https://leetcode.com/matias80/)&nbsp;[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/matiasmenadadalt)&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@MatiasMenaDaDalt-y2t)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-mena-da-dalt-984a19240) [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat&logo=leetcode)](https://leetcode.com/matias80/) [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/matiasmenadadalt) [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@MatiasMenaDaDalt-y2t)
 
 ---
 
