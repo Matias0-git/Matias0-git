@@ -123,9 +123,6 @@ Here are some of my existing projects, with video demonstrations available on my
         <br />
         **Ecommerce Demo**
       </a>
-      <p>
-        **[Project Description Here]:** Detail the data source, how data was ingested/transformed (e.g., Python scripts for web scraping, API calls), where it was stored (e.g., MySQL, MongoDB), and how the processed data was used in the application. Highlight any specific data challenges or solutions.
-        </p>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=9jDNSBL8nzQ" target="_blank">
@@ -133,9 +130,6 @@ Here are some of my existing projects, with video demonstrations available on my
         <br />
         **Weather App Demo**
       </a>
-      <p>
-        **[Project Description Here]:** Explain the data flow: how weather data was fetched (e.g., RESTful API), any real-time aspects, how it was processed, and how it informed the application's features.
-        </p>
     </td>
   </tr>
   <tr>
@@ -146,8 +140,6 @@ Here are some of my existing projects, with video demonstrations available on my
         **Task Manager Demo**
       </a>
       <p>
-        **[Project Description Here]:** Describe the database design (e.g., PostgreSQL schema for tasks, users), data CRUD operations, and how data consistency or state management was handled.
-        </p>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=ywydyklG1fY" target="_blank">
@@ -155,9 +147,6 @@ Here are some of my existing projects, with video demonstrations available on my
         <br />
         **Calculator Client Server Demo**
       </a>
-      <p>
-        **[Project Description Here]:** While seemingly simple, consider how operations data might be logged, aggregated, or analyzed on the server-side for insights (e.g., most common operations, error rates).
-        </p>
     </td>
   </tr>
 </table>
