@@ -40,9 +40,7 @@ These are the foundational tools I actively use and build with:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-007ACC?style=for-the-badge&logo=json&logoColor=white)
 
-### **Secondary Technologies (Supporting Development & Data Science Basics)**
-
-These technologies complement my data engineering work and are useful for interacting with data and building basic data applications:
+### **Secondary Technologies**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
