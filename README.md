@@ -1,4 +1,4 @@
-![Matias Mena Da Dalt - Data Engineer](https://drive.google.com/file/d/18F2AGx-bTzMjOvNq2cjAe8kOadcYzyN6/view?usp=sharing)
+![Matias Mena Da Dalt - Data Engineer](profile-mid-2025.png)
 # 👋 Hello, I'm Matias!
 
 🔍 An aspiring **Data Engineer** passionate about building robust data solutions that power **Digital Transformation** and drive organizations towards a **data-driven future**.
