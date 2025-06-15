@@ -46,7 +46,7 @@ These are the foundational tools I actively use and build with:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### **Tertiary Technologies (Exploring & Expanding - Current Data Engineering Trends)**
+### **Tertiary Technologies (Exploring & Expanding & Future-Investments - Current Data Engineering Trends)**
 
 Areas I'm actively learning or exploring to broaden my skill set, focusing on emerging and key data engineering concepts:
 
@@ -54,7 +54,8 @@ Areas I'm actively learning or exploring to broaden my skill set, focusing on em
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-008D93?style=for-the-badge&logo=deltalake&logoColor=white)
 ![Data Mesh](https://img.shields.io/badge/Concept-Data%20Mesh-teal?style=for-the-badge)
-
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ---
 
 ## ✨ My Data Engineering Mindset & Concepts:
