@@ -113,7 +113,7 @@ I believe in a holistic approach to data engineering, influenced by principles t
 
 These projects showcase my broader development journey. I'm actively learning how to reframe them with a data engineering lens (e.g., how data flows, where it's stored, and how it could be used for analytics or ML).
 
-Here are some of my existing projects, with video demonstrations available on my YouTube channel: [Matias's YouTube Channel](https://www.youtube.com/@MatiasMenaDaDalt-y2t)
+Here are some of my existing projects, with video demonstrations available on my YouTube channel: [YouTube Channel](https://www.youtube.com/@MatiasMenaDaDalt-y2t)
 
 <table align="center">
   <tr>
