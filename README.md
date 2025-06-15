@@ -131,8 +131,6 @@ Here are some of my existing projects, with video demonstrations available on my
   </tr>
 </table>
 
-**Important Note:** I cannot automatically retrieve your specific YouTube video IDs. **You MUST replace `YOUR_ECOMMERCE_VIDEO_ID`, `YOUR_WEATHER_VIDEO_ID`, `YOUR_TASK_MANAGER_VIDEO_ID`, and `YOUR_CALCULATOR_VIDEO_ID` with the actual video IDs from your YouTube video URLs.** The video ID is the unique string found after `v=` in a YouTube URL (e.g., in `https://www.youtube.com/watch?v=dQw4w9WgXcQ`, the ID is `dQw4w9WgXcQ`).
-
 ---
 
 ## 🔗 Connect With Me:
