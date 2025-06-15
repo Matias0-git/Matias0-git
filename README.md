@@ -22,14 +22,12 @@ These are the foundational tools I actively use and build with:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-007ACC?style=for-the-badge&logo=json&logoColor=white)
 
-### **Secondary Technologies (Supporting Development & ML)**
+### **Secondary Technologies (Supporting Development & Data Science Basics)**
 
-These technologies complement my data engineering work and are crucial for building complete solutions:
+These technologies complement my data engineering work and are useful for interacting with data and building basic data applications:
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -46,16 +44,21 @@ Areas I'm actively learning or exploring to broaden my skill set:
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-
 ---
 
-## ✨ My Data Engineering Mindset:
+## ✨ My Data Engineering Mindset & Concepts:
 
-I believe in a holistic approach to data engineering, influenced by principles that drive robust, scalable, and impactful solutions:
+I believe in a holistic approach to data engineering, influenced by principles that drive robust, scalable, and impactful solutions.
+
+### **Mindsets**
 
 [![Pragmatic Engineer](https://img.shields.io/badge/Mindset-Pragmatic%20Engineer-blueviolet?style=for-the-badge)](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
 [![Clean Code Advocate](https://img.shields.io/badge/Mindset-Clean%20Code%20Advocate-blueviolet?style=for-the-badge)](https://en.wikipedia.org/wiki/Clean_Code)
 [![Data-Driven Thinking](https://img.shields.io/badge/Mindset-Data--Driven%20Thinking-blueviolet?style=for-the-badge)](https://en.wikipedia.org/wiki/Data-driven)
+[![Business Thinking in DE](https://img.shields.io/badge/Mindset-Business%20Thinking%20in%20DE-blueviolet?style=for-the-badge)](https://en.wikipedia.org/wiki/Business_acumen)
+
+### **Concepts I'm Focusing to Integrate in My Data Engineering Journey**
+
 [![Event-Driven Architecture](https://img.shields.io/badge/Concept-Event--Driven%20Architecture-teal?style=for-the-badge)](https://en.wikipedia.org/wiki/Event-driven_architecture)
 [![Distributed Systems Design](https://img.shields.io/badge/Concept-Distributed%20Systems%20Design-teal?style=for-the-badge)](https://en.wikipedia.org/wiki/Distributed_computing)
 [![Data Pipelines](https://img.shields.io/badge/Concept-Data%20Pipelines-teal?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_pipeline)
@@ -67,13 +70,11 @@ I believe in a holistic approach to data engineering, influenced by principles t
 [![Logging & Monitoring](https://img.shields.io/badge/Concept-Logging%20%26%20Monitoring-teal?style=for-the-badge)](https://en.wikipedia.org/wiki/Monitoring_(computer_science))
 [![Data Security Focus](https://img.shields.io/badge/Concept-Data%20Security-teal?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_security)
 [![Data Quality & Observability](https://img.shields.io/badge/Concept-Data%20Quality%20%26%20Observability-teal?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_quality)
-[![Business Thinking in DE](https://img.shields.io/badge/Mindset-Business%20Thinking%20in%20DE-blueviolet?style=for-the-badge)](https://en.wikipedia.org/wiki/Business_acumen)
 [![Data Strategy](https://img.shields.io/badge/Concept-Data%20Strategy-teal?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_strategy)
 [![Domain-Driven Design](https://img.shields.io/badge/Concept-Domain--Driven%20Design-teal?style=for-the-badge)](https://en.wikipedia.org/wiki/Domain-driven_design)
 [![Tight vs Loose Coupling](https://img.shields.io/badge/Concept-Tight%20vs%20Loose%20Coupling-teal?style=for-the-badge)](https://en.wikipedia.org/wiki/Coupling_(computer_programming))
 [![Single vs Multitenant Access](https://img.shields.io/badge/Concept-Single%20vs%20Multitenant%20Access-teal?style=for-the-badge)](https://en.wikipedia.org/wiki/Multitenancy)
 [![Greenfield vs Brownfield](https://img.shields.io/badge/Concept-Greenfield%20vs%20Brownfield-teal?style=for-the-badge)](https://en.wikipedia.org/wiki/Greenfield_project)
-
 
 ---
 
@@ -97,40 +98,37 @@ Here are some of my existing projects, with video demonstrations available on my
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=79w1P6Xk-Xg" target="_blank">
-    <img src="http://img.youtube.com/vi/YOUR_ECOMMERCE_VIDEO_ID/hqdefault.jpg" alt="Ecommerce Demo" width="200"/>
+    <img src="http://img.youtube.com/vi/79w1P6Xk-Xg/hqdefault.jpg" alt="Ecommerce Demo" width="200"/>
     <br />
     Ecommerce Demo
   </a>
       
   <a href="https://www.youtube.com/watch?v=9jDNSBL8nzQ" target="_blank">
-    <img src="http://img.youtube.com/vi/YOUR_WEATHER_VIDEO_ID/hqdefault.jpg" alt="Weather App Demo" width="200"/>
+    <img src="http://img.youtube.com/vi/9jDNSBL8nzQ/hqdefault.jpg" alt="Weather App Demo" width="200"/>
     <br />
     Weather App Demo
   </a>
       
   <a href="https://www.youtube.com/watch?v=0dmcyogcAnk" target="_blank">
-    <img src="http://img.youtube.com/vi/YOUR_TASK_MANAGER_VIDEO_ID/hqdefault.jpg" alt="Task Manager Demo" width="200"/>
+    <img src="http://img.youtube.com/vi/0dmcyogcAnk/hqdefault.jpg" alt="Task Manager Demo" width="200"/>
     <br />
     Task Manager Demo
   </a>
       
   <a href="https://www.youtube.com/watch?v=ywydyklG1fY" target="_blank">
-    <img src="http://img.youtube.com/vi/YOUR_CALCULATOR_VIDEO_ID/hqdefault.jpg" alt="Calculator Client Server Demo" width="200"/>
+    <img src="http://img.youtube.com/vi/ywydyklG1fY/hqdefault.jpg" alt="Calculator Client Server Demo" width="200"/>
     <br />
     Calculator Client Server Demo
   </a>
 </p>
 
-**Note:** To display the correct thumbnails, **you MUST replace `YOUR_ECOMMERCE_VIDEO_ID`, `YOUR_WEATHER_VIDEO_ID`, `YOUR_TASK_MANAGER_VIDEO_ID`, and `YOUR_CALCULATOR_VIDEO_ID` with the actual video IDs from your YouTube video URLs.** The video ID is found after `v=` in a YouTube URL (e.g., in `https://www.youtube.com/watch?v=dQw4w9WgXcQ`, the ID is `dQw4w9WgXcQ`).
+**Important Note:** I cannot automatically retrieve your specific YouTube video IDs. **You MUST replace `YOUR_ECOMMERCE_VIDEO_ID`, `YOUR_WEATHER_VIDEO_ID`, `YOUR_TASK_MANAGER_VIDEO_ID`, and `YOUR_CALCULATOR_VIDEO_ID` with the actual video IDs from your YouTube video URLs.** The video ID is the unique string found after `v=` in a YouTube URL (e.g., in `https://www.youtube.com/watch?v=dQw4w9WgXcQ`, the ID is `dQw4w9WgXcQ`).
 
 ---
 
 ## 🔗 Connect With Me:
 
-* 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-mena-da-dalt-984a19240)
-* [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat&logo=leetcode)](https://leetcode.com/matias80/)
-* [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/matiasmenadadalt)
-* [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@MatiasMenaDaDalt-y2t)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-mena-da-dalt-984a19240)&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat&logo=leetcode)](https://leetcode.com/matias80/)&nbsp;[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/matiasmenadadalt)&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@MatiasMenaDaDalt-y2t)
 
 ---
 
