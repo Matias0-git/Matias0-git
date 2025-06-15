@@ -37,13 +37,14 @@ These technologies complement my data engineering work and are useful for intera
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### **Tertiary Technologies (Exploring & Expanding)**
+### **Tertiary Technologies (Exploring & Expanding - Current Data Engineering Trends)**
 
-Areas I'm actively learning or exploring to broaden my skill set:
+Areas I'm actively learning or exploring to broaden my skill set, focusing on emerging and key data engineering skills:
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-008D93?style=for-the-badge&logo=deltalake&logoColor=white)
+![Data Mesh](https://img.shields.io/badge/Concept-Data%20Mesh-teal?style=for-the-badge)
 
 ---
 
@@ -131,9 +132,6 @@ Here are some of my existing projects, with video demonstrations available on my
     </td>
   </tr>
 </table>
-
-**Important Note:** I cannot automatically retrieve your specific YouTube video IDs. **You MUST replace `YOUR_ECOMMERCE_VIDEO_ID`, `YOUR_WEATHER_VIDEO_ID`, `YOUR_TASK_MANAGER_VIDEO_ID`, and `YOUR_CALCULATOR_VIDEO_ID` with the actual video IDs from your YouTube video URLs.** The video ID is the unique string found after `v=` in a YouTube URL (e.g., in `https://www.youtube.com/watch?v=dQw4w9WgXcQ`, the ID is `dQw4w9WgXcQ`).
-
 ---
 
 ## 🔗 Connect With Me:
