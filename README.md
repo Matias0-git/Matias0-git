@@ -1,6 +1,23 @@
+![Matias Mena Da Dalt - Data Engineer](https://via.placeholder.com/1200x200/0A192F/E6E6E6?text=Matias+Mena+Da+Dalt+%7C+Aspiring+Data+Engineer)
 # 👋 Hello, I'm Matias!
 
-🔍 An aspiring **Data Engineer** passionate about building robust data solutions that power **Digital Transformation** and drive organizations towards an **AI-driven future**.
+🔍 An aspiring **Data Engineer** passionate about building robust data solutions that power **Digital Transformation** and drive organizations towards a **data-driven future**.
+
+---
+
+## 📚 Table of Contents
+
+* [🛠️ My Data Engineering Toolkit](#️-my-data-engineering-toolkit)
+    * [Primary Technologies (Core Data Engineering)](#primary-technologies-core-data-engineering)
+    * [Secondary Technologies (Supporting Development & Data Science Basics)](#secondary-technologies-supporting-development--data-science-basics)
+    * [Tertiary Technologies (Exploring & Expanding - Current Data Engineering Trends)](#tertiary-technologies-exploring--expanding---current-data-engineering-trends)
+* [✨ My Data Engineering Mindset & Concepts](#-my-data-engineering-mindset--concepts)
+    * [Mindsets](#mindsets)
+    * [Concepts I'm Focusing to Integrate in My Data Engineering Journey](#concepts-im-focusing-to-integrate-in-my-data-engineering-journey)
+* [🌟 GitHub Activity](#-github-activity)
+* [📺 My Projects (YouTube Demos)](#-my-projects-youtube-demos)
+* [🔗 Connect With Me](#-connect-with-me)
+* [Last But Not Least](#last-but-not-least)
 
 ---
 
@@ -39,7 +56,7 @@ These technologies complement my data engineering work and are useful for intera
 
 ### **Tertiary Technologies (Exploring & Expanding - Current Data Engineering Trends)**
 
-Areas I'm actively learning or exploring to broaden my skill set, focusing on emerging and key data engineering skills:
+Areas I'm actively learning or exploring to broaden my skill set, focusing on emerging and key data engineering concepts:
 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
@@ -100,43 +117,58 @@ Here are some of my existing projects, with video demonstrations available on my
 
 <table align="center">
   <tr>
-    <td>
+    <td align="center">
       <a href="https://www.youtube.com/watch?v=79w1P6Xk-Xg" target="_blank">
         <img src="http://img.youtube.com/vi/79w1P6Xk-Xg/hqdefault.jpg" alt="Ecommerce Demo" width="200"/>
         <br />
-        Ecommerce Demo
+        **Ecommerce Demo**
       </a>
+      <p>
+        **[Project Description Here]:** Detail the data source, how data was ingested/transformed (e.g., Python scripts for web scraping, API calls), where it was stored (e.g., MySQL, MongoDB), and how the processed data was used in the application. Highlight any specific data challenges or solutions.
+        </p>
     </td>
-    <td>
+    <td align="center">
       <a href="https://www.youtube.com/watch?v=9jDNSBL8nzQ" target="_blank">
         <img src="http://img.youtube.com/vi/9jDNSBL8nzQ/hqdefault.jpg" alt="Weather App Demo" width="200"/>
         <br />
-        Weather App Demo
+        **Weather App Demo**
       </a>
+      <p>
+        **[Project Description Here]:** Explain the data flow: how weather data was fetched (e.g., RESTful API), any real-time aspects, how it was processed, and how it informed the application's features.
+        </p>
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <a href="https://www.youtube.com/watch?v=0dmcyogcAnk" target="_blank">
         <img src="http://img.youtube.com/vi/0dmcyogcAnk/hqdefault.jpg" alt="Task Manager Demo" width="200"/>
         <br />
-        Task Manager Demo
+        **Task Manager Demo**
       </a>
+      <p>
+        **[Project Description Here]:** Describe the database design (e.g., PostgreSQL schema for tasks, users), data CRUD operations, and how data consistency or state management was handled.
+        </p>
     </td>
-    <td>
+    <td align="center">
       <a href="https://www.youtube.com/watch?v=ywydyklG1fY" target="_blank">
         <img src="http://img.youtube.com/vi/ywydyklG1fY/hqdefault.jpg" alt="Calculator Client Server Demo" width="200"/>
         <br />
-        Calculator Client Server Demo
+        **Calculator Client Server Demo**
       </a>
+      <p>
+        **[Project Description Here]:** While seemingly simple, consider how operations data might be logged, aggregated, or analyzed on the server-side for insights (e.g., most common operations, error rates).
+        </p>
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🔗 Connect With Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-mena-da-dalt-984a19240) [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat&logo=leetcode)](https://leetcode.com/matias80/) [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/matiasmenadadalt) [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@MatiasMenaDaDalt-y2t)
+
+---
 
 ## Last But Not Least:
 
