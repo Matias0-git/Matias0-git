@@ -99,46 +99,39 @@ I believe in a holistic approach to data engineering, influenced by principles t
 
 ---
 
-## 📺 My Projects (YouTube Demos):
+## 💻 My Projects (GitHub Repositories):
 
-These projects showcase my broader development journey. I'm actively learning how to reframe them with a data engineering lens (e.g., how data flows, where it's stored, and how it could be used for analytics or ML).
-
-Here are some of my existing projects, with video demonstrations available on my YouTube channel: [YouTube Channel](https://www.youtube.com/@MatiasMenaDaDalt-y2t)
+Here are some of my existing projects, with code available on my GitHub profile.
 
 <table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=79w1P6Xk-Xg" target="_blank">
-        <img src="http://img.youtube.com/vi/79w1P6Xk-Xg/hqdefault.jpg" alt="Ecommerce Demo" width="200"/>
-        <br />
-        **Ecommerce Demo**
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=9jDNSBL8nzQ" target="_blank">
-        <img src="http://img.youtube.com/vi/9jDNSBL8nzQ/hqdefault.jpg" alt="Weather App Demo" width="200"/>
-        <br />
-        **Weather App Demo**
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=0dmcyogcAnk" target="_blank">
-        <img src="http://img.youtube.com/vi/0dmcyogcAnk/hqdefault.jpg" alt="Task Manager Demo" width="200"/>
-        <br />
-        **Task Manager Demo**
-      </a>
-      <p>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=ywydyklG1fY" target="_blank">
-        <img src="http://img.youtube.com/vi/ywydyklG1fY/hqdefault.jpg" alt="Calculator Client Server Demo" width="200"/>
-        <br />
-        **Calculator Client Server Demo**
-      </a>
-    </td>
-  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Matias0-git/dimensional_data_modeling_w1_zb" target="_blank">
+        <img src="https://github.com/Matias0-git/dimensional_data_modeling_w1_zb/blob/main/images/dimensional_data_modeling.png?raw=true" alt="Dimensional Data Modeling" width="200"/>
+        <br />
+        **Dimensional Data Modeling**
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Matias0-git/fact_data_modeling_w2_zb" target="_blank">
+        <img src="https://github.com/Matias0-git/fact_data_modeling_w2_zb/blob/main/images/fact_data_modeling.png?raw=true" alt="Fact Data Modeling" width="200"/>
+        <br />
+        **Fact Data Modeling**
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Matias0-git/apache_spark_w3_zb" target="_blank">
+        <img src="https://github.com/Matias0-git/apache_spark_w3_zb/blob/main/images/apache_spark.png?raw=true" alt="Apache Spark" width="200"/>
+        <br />
+        **Apache Spark**
+      </a>
+      <p>
+    </td>
+    <td align="center">
+    </td>
+  </tr>
 </table>
 
 ---
