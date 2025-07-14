@@ -114,7 +114,7 @@ Here are some of my existing projects, with code available on my GitHub profile.
     </td>
     <td align="center">
       <a href="https://github.com/Matias0-git/fact_data_modeling_w2_zb" target="_blank">
-        <img src="hhttps://static.vecteezy.com/system/resources/previews/026/665/429/original/data-modeling-icon-vector.jpg" alt="Fact Data Modeling" width="200"/>
+        <img src="https://static.vecteezy.com/system/resources/previews/026/665/429/original/data-modeling-icon-vector.jpg" alt="Fact Data Modeling" width="200"/>
         <br />
         **Fact Data Modeling**
       </a>
