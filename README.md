@@ -109,14 +109,12 @@ Here are some of my existing projects, with code available on my GitHub profile.
       <a href="https://github.com/Matias0-git/dimensional_data_modeling_w1_zb" target="_blank">
         <img src="https://github.com/Matias0-git/dimensional_data_modeling_w1_zb/blob/main/images/dimensional_data_modeling.png?raw=true" alt="Dimensional Data Modeling" width="200"/>
         <br />
-        **Dimensional Data Modeling**
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Matias0-git/fact_data_modeling_w2_zb" target="_blank">
         <img src="https://github.com/Matias0-git/fact_data_modeling_w2_zb/blob/main/images/fact_data_modeling.png?raw=true" alt="Fact Data Modeling" width="200"/>
         <br />
-        **Fact Data Modeling**
       </a>
     </td>
   </tr>
@@ -125,7 +123,6 @@ Here are some of my existing projects, with code available on my GitHub profile.
       <a href="https://github.com/Matias0-git/apache_spark_w3_zb" target="_blank">
         <img src="https://github.com/Matias0-git/apache_spark_w3_zb/blob/main/images/apache_spark.png?raw=true" alt="Apache Spark" width="200"/>
         <br />
-        **Apache Spark**
       </a>
       <p>
     </td>
