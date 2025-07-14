@@ -104,25 +104,28 @@ I believe in a holistic approach to data engineering, influenced by principles t
 Here are some of my existing projects, with code available on my GitHub profile.
 
 <table align="center">
-  <tr>
+ <tr>
     <td align="center">
       <a href="https://github.com/Matias0-git/dimensional_data_modeling_w1_zb" target="_blank">
-        <img src="https://github.com/Matias0-git/dimensional_data_modeling_w1_zb/blob/main/images/dimensional_data_modeling.png?raw=true" alt="Dimensional Data Modeling" width="200"/>
+        <img src="https://media.licdn.com/dms/image/D5612AQFihe0FC85S-g/article-cover_image-shrink_600_2000/0/1685075931693?e=2147483647&v=beta&t=l_bc00bLY-6f_Xs3x7m0UER3HSzEi2Zo4jWdGFn5g4c" alt="Dimensional Data Modeling" width="200"/>
         <br />
+        **Dimensional Data Modeling**
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Matias0-git/fact_data_modeling_w2_zb" target="_blank">
-        <img src="https://github.com/Matias0-git/fact_data_modeling_w2_zb/blob/main/images/fact_data_modeling.png?raw=true" alt="Fact Data Modeling" width="200"/>
+        <img src="hhttps://static.vecteezy.com/system/resources/previews/026/665/429/original/data-modeling-icon-vector.jpg" alt="Fact Data Modeling" width="200"/>
         <br />
+        **Fact Data Modeling**
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/Matias0-git/apache_spark_w3_zb" target="_blank">
-        <img src="https://github.com/Matias0-git/apache_spark_w3_zb/blob/main/images/apache_spark.png?raw=true" alt="Apache Spark" width="200"/>
+        <img src="https://xuri.me/wp-content/uploads/2016/03/apache-spark-logo.png" alt="Apache Spark" width="200"/>
         <br />
+        **Apache Spark**
       </a>
       <p>
     </td>
