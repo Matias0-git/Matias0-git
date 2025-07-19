@@ -127,11 +127,8 @@ Here are some of my existing projects, with code available on my GitHub profile.
         <br />
         **Apache Spark**
       </a>
-      <p>
     </td>
     <td align="center">
-    </td>
-     <td align="center">
       <a href="https://github.com/Matias0-git/apache_flink_and_analiytical_patterns_w4_w4bis_zb" target="_blank">
         <img src="https://drive.google.com/file/d/1Q6snBSTYt4jk9beFpa6jc38mftRM5nUi/view?usp=sharing" alt="Apache Flink & Analytical Patterns" width="200"/>
         <br />
@@ -140,7 +137,6 @@ Here are some of my existing projects, with code available on my GitHub profile.
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🔗 Connect With Me:
