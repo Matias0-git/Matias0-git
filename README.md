@@ -45,7 +45,7 @@ These are the foundational tools I actively use and build with:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### **Tertiary Technologies (Exploring & Expanding & Future-Investments - Current Data Engineering Trends)**
+### **Tertiary Technologies (Exploring & Expanding & Future-Investments)**
 
 Areas I'm actively learning or exploring to broaden my skill set, focusing on emerging and key data engineering concepts:
 
