@@ -123,7 +123,7 @@ Here are some of my existing projects, with code available on my GitHub profile.
   <tr>
     <td align="center">
       <a href="https://github.com/Matias0-git/apache_spark_w3_zb" target="_blank">
-        <img src="apache_spark_n.png" alt="Apache Spark" width="200"/>
+        <img src="apache_spark.png" alt="Apache Spark" width="200"/>
         <br />
         **Apache Spark**
       </a>
