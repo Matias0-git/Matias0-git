@@ -117,8 +117,8 @@ Concepts I keep coming back to: event-driven architecture · multi-tenancy · do
 ## 🌟 GitHub Activity
 
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matias0-git&theme=radical)](https://github.com/Matias0-git)
-[![Matias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matias0-git&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matias0-git&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Matias0-git&theme=radical&hide_border=true)](https://github.com/Matias0-git)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matias0-git&theme=radical&layout=compact&hide_border=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
