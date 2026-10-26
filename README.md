@@ -1,4 +1,4 @@
-![Matias Mena Da Dalt](profile-linkedin-v3.png)
+![Matias Mena Da Dalt — Founder of Moducity · GovTech & Data Engineering](profile-banner-v4.png)
 # 👋 Hi, I'm Matias
 
 🏛️ Founder of **[Moducity](https://moducity.space)** at **Keystone Analytics Group**: a GovTech platform that takes municipal building permits from paper to fully digital, legally signed case files.
